@@ -13,6 +13,10 @@ Visualization: Generates insightful visualizations (e.g., charts, graphs) to unc
 ## Technologies Used:
 
 Python
+
 Nginx log parsing libraries (e.g., nginxlog)
+
 MySQL
+
 Data visualization libraries (e.g., Matplotlib, Seaborn)
+
